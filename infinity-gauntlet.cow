@@ -1,0 +1,32 @@
+#infinity gauntlet
+#handle with care may lead to "snap"
+#rest half may decimate!!
+#author: souvik kar mahapatra
+#contact: kivuosark@gmail.com
+
+$the_cow = <<"EOC";
+        $thoughts
+         $thoughts
+          $thoughts      /^^\\
+            /^^\\ |  | /^^\\
+            |  | |  | |  | /^\\
+            |  | |  | |  | |  |
+            |  | |  | |  | |  |
+            |  | |  | |  | |  |
+            |  \\/   \\/   \\/   |
+     /^^\\   |(0)  (0)  (0) (0) |
+     \\   \\ |                   |
+     /\\   \\/     /^^^\\        |
+    \\0)\\        ||(O)||       |
+     \\__\\_       \\___/      _|
+         \\       /    \\      -
+          |     /      \\     |
+         |     /        \\      |
+         |     |         |     |
+        |      |         |      |
+        |______-----------______|
+        \\_______________________/
+
+#endgame
+
+EOC
